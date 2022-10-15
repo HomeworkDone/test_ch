@@ -1,0 +1,66 @@
+.diablo3 {
+  background: url(../../Diablo2/img/bg2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.diablo3 .head {
+  background: url(../img/bg1.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px;
+}
+.diablo3 h2 {
+  color: #dedcd9;
+  font-size: 28px;
+  text-align: left;
+  padding-bottom: 15px;
+  padding-left: 100px;
+}
+.diablo3 a {
+  padding-left: 60px;
+  font-size: 15px;
+  color: #ffffff;
+}
+.diablo3 a:hover {
+  color: #e2e044;
+}
+.diablo3 .site-back-top-basic {
+  color: rgba(255, 255, 255, 0.6);
+}
+.diablo3 p {
+  color: #999;
+  font-size: 15px;
+  text-align: left;
+  width: 1500px;
+  padding-bottom: 15px;
+  padding-left: 150px;
+  line-height: 26px;
+  text-indent: 2em;
+}
+.diablo3 img {
+  display: inline-block;
+  position: relative;
+}
+.diablo3 .divide {
+  left: 30vw;
+}
+.diablo3 .img_all {
+  left: 5vw;
+  width: 900px;
+}
+.diablo3 .img_sj {
+  width: 300px;
+  left: 5vw;
+}
+.diablo3 .img_ti {
+  left: 6vw;
+}
+.diablo3 .img_mid {
+  left: 20vw;
+}
+.diablo3 .img_paiming {
+  width: 1200px;
+}
+/*# sourceMappingURL=./index.css.map */

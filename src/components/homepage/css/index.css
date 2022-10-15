@@ -1,0 +1,17 @@
+.homepage {
+  height: 2000px;
+}
+.homepage p {
+  margin: 0px 450px 20px 150px;
+  font-size: 15px;
+}
+.homepage h2 {
+  font-size: 28px;
+  text-align: left;
+  padding-bottom: 15px;
+  padding-left: 100px;
+}
+.homepage a:hover {
+  color: #6B6B6B;
+}
+/*# sourceMappingURL=./index.css.map */

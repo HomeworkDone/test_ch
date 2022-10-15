@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+ 
+        .contain {
+            display: flex; /*父元素设置该属性*/
+        }
+ 
+        .left {
+            width: 100px;
+            height: 200px;
+            background: #fff8a8;
+        }
+ 
+        .right {
+            flex: 1; /*所占比例/份数*/
+            height: 200px;
+            background: #ff9bad;
+        }
+    </style>
+</head>
+<body>
+<div class="contain">
+    <div class="left"></div>
+    <div class="right"></div>
+</div>
+</body>
+</html>

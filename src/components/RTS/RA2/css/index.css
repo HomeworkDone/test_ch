@@ -1,0 +1,49 @@
+.Red2 h2 {
+  color: #000;
+  font-size: 28px;
+  text-align: left;
+  padding-bottom: 15px;
+  padding-left: 100px;
+}
+.Red2 a {
+  padding-left: 60px;
+  font-size: 15px;
+}
+.Red2 a:hover {
+  color: #181c46;
+}
+.Red2 p {
+  color: #000;
+  font-size: 15px;
+  text-align: left;
+  width: 1500px;
+  padding-bottom: 15px;
+  padding-left: 150px;
+  line-height: 26px;
+  text-indent: 2em;
+}
+.Red2 .yl {
+  position: relative;
+  left: 15vw;
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+}
+.Red2 .kj {
+  position: relative;
+  left: 15vw;
+  width: 1000px;
+  height: 600px;
+  overflow: hidden;
+}
+.Red2 .map {
+  position: relative;
+  left: 15vw;
+  width: 1200px;
+  height: 470px;
+  overflow: hidden;
+}
+.Red2 .ant-carousel .slick-dots li button {
+  height: 15px;
+}
+/*# sourceMappingURL=./index.css.map */

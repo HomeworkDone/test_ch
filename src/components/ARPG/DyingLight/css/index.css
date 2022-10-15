@@ -1,0 +1,35 @@
+.dyinglight h2 {
+  color: #000;
+  font-size: 28px;
+  text-align: left;
+  padding-bottom: 15px;
+  padding-left: 100px;
+}
+.dyinglight a {
+  padding-left: 60px;
+  font-size: 15px;
+}
+.dyinglight a:hover {
+  color: #181c46;
+}
+.dyinglight p {
+  color: #000;
+  font-size: 15px;
+  text-align: left;
+  width: 1500px;
+  padding-bottom: 15px;
+  padding-left: 150px;
+  line-height: 26px;
+  text-indent: 2em;
+}
+.dyinglight .photo {
+  position: relative;
+  left: 30vw;
+  width: 500px;
+  height: 280px;
+  overflow: hidden;
+}
+.dyinglight .ant-carousel .slick-dots li button {
+  height: 15px;
+}
+/*# sourceMappingURL=./index.css.map */

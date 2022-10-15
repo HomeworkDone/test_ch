@@ -1,0 +1,49 @@
+.ZTHJ {
+  background-image: url(../img/bg1.png);
+  color: #ca8c4a;
+  background-attachment: fixed;
+}
+.ZTHJ .head {
+  background-image: url(https://zthj.ztgame.com/images/bgs/mainbg.jpg);
+  padding-bottom: 200px;
+}
+.ZTHJ p {
+  margin: 0px 450px 20px 150px;
+  font-size: 15px;
+}
+.ZTHJ a {
+  color: #fce884;
+}
+.ZTHJ a:hover {
+  color: #756a2f;
+}
+.ZTHJ h2,
+.ZTHJ h3 {
+  color: #f3cc0b;
+  text-align: left;
+  padding-bottom: 15px;
+  padding-left: 100px;
+}
+.ZTHJ h2 {
+  font-size: 28px;
+}
+.ZTHJ h3 {
+  font-size: 18px;
+}
+.ZTHJ img {
+  position: relative;
+}
+.ZTHJ .mid {
+  margin-left: 450px;
+}
+.ZTHJ .photo {
+  position: relative;
+  left: 25vw;
+  width: 800px;
+  height: 600px;
+  overflow: hidden;
+}
+.ZTHJ .ant-carousel .slick-dots li button {
+  height: 15px;
+}
+/*# sourceMappingURL=./index.css.map */
